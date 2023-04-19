@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on <a href="https://github.com/MaarcusRenieroL/ayurseva" target="_blank>Ayurseva</a>
+- 🔭 I’m currently working on <a href="https://github.com/MaarcusRenieroL/ayurseva" target="_blank">Ayurseva</a>
 
 - 🌱 I’m currently learning Flutter, Next JS, Typescript, Node JS and Java
 
