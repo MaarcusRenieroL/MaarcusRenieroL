@@ -21,10 +21,10 @@ C, C++, Python, Java, R, HTML, CSS, JavaScript, TailwindCSS, React JS, NodeJS, E
 
 <a href="mailto:maarcusreniero.l@gmail.com">My Mail</a> <a href="https://www.linkedin.com/in/maarcus-reniero-l/">My LinkedIn Profile</a>
 
-<!--
-[![Maarcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaarcusRenieroL)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaarcusRenieroL)](https://github.com/anuraghazra/github-readme-stats)
--->
+[![Maarcus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaarcusRenieroL&icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaarcusRenieroL&" alt="MaarcusRenieroL" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaarcusRenieroL&icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MaarcusRenieroL&theme=dark" alt="MaarcusRenieroL" /></p>
