@@ -8,9 +8,9 @@
 
 - 🤔 I’m looking for help with ...
 
-👨🏻‍💻 ### Languages that I know
+👨🏻‍💻 <h3>Languages that I know</h3>
 
-C, C++, Python, Java, R, HTML, CSS, JavaScript, TailwindCSS, React JS, NodeJS, ExpressJS, MongoDB, SQL, and Firebase
+    C, C++, Python, Java, R, HTML, CSS, JavaScript, TailwindCSS, React JS, NodeJS, ExpressJS, MongoDB, SQL, and Firebase
 
 - 💬 Ask me anything related to tech stuff. I would really like to talk more about these
 
