@@ -12,7 +12,7 @@
     <li>
         🌱 I’m currently learning <strong>Java</strong>
     </li>
-<li>
+    <li>
         👨‍💻 All of my projects are available at my <a href="https://maarcus-reniero-l.vercel.app">portfolio</a>
     </li>
     <li>
@@ -23,12 +23,14 @@
     </li>
     <li> ⚡ Known fact <strong>I get shit done</strong></li>
 </ul>
+
 <br />
 <br />
 
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mxrcxs17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maarcus-reniero-l)
+
 <br />
 <br />
 
@@ -69,7 +71,3 @@
 ![](https://github-profile-trophy.vercel.app/?username=MaarcusRenieroL&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 <br />
 <br />
-
-### 😂 Random Dev Meme
-
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
