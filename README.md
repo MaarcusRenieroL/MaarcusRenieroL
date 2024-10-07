@@ -7,13 +7,13 @@
 
 <ul>
     <li>
-        🔭 I’m currently working on the project <a href="https://github.com/MaarcusRenieroL/secure-track">Secure Track</a>
+        🔭 I’m currently working on the following personal projects <a href="https://github.com/MaarcusRenieroL/next-cli">next-cli</a>, <a href="https://github.com/MaarcusRenieroL/password-manager">password-manager</a>, <a href="https://github.com/MaarcusRenieroL/ecommerce-app">ecommerce-app</a> and <a href="https://github.com/MaarcusRenieroL/mern-social-media-app">mern-social-media-app</a>
     </li>
     <li>
-        🌱 I’m currently learning <strong>Java</strong>
+        🌱 I’m currently learning the following tech stack: <strong>Java</strong>, <strong>Spring</strong>, <strong>Spring Boot</strong>, <strong>Angular</strong>, <strong>Docker</strong>, <strong>Kubernetes</strong>, <strong>AWS</strong>, 
     </li>
     <li>
-        👨‍💻 All of my projects are available at my <a href="https://maarcus-reniero-l.vercel.app">portfolio</a>
+        👨‍💻 All of my projects are available at my <a href="https://maarcus.vercel.app">portfolio</a>
     </li>
     <li>
         💬 Ask me about <strong>Full Stack Development</strong>
@@ -23,13 +23,6 @@
     </li>
     <li> ⚡ Known fact <strong>I get shit done</strong></li>
 </ul>
-
-<br />
-<br />
-
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mxrcxs17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maarcus-reniero-l)
 
 <br />
 <br />
